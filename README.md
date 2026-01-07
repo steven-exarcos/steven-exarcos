@@ -1,5 +1,5 @@
-## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-exarcos"/>
 <!--
 **steven-exarcos/steven-exarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
